@@ -1,1 +1,1 @@
-# PayView-Mobile is a mobile wallet where user can top up, send money using QR-Code. Back-End is developed by using django restframework, you can find the api in my repository.
+# PayView-Mobile is a mobile wallet app where user can top up, send money using QR-Code. Back-End is developed by using django restframework, you can find the api in my repository. This is a simple Mobile App developed using React-Native.
